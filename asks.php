@@ -45,3 +45,9 @@ LIMIT $limitstr
 	}
 
 ?>
+
+
+
+
+
+// help is needed to understand this code
